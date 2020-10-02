@@ -9,7 +9,7 @@ I am currently focusing on the following technologies:
 
  :rocket:  &nbsp; Looking for an urgent internship! ***Please HIRE ME***!!! 😁😁😁
  <br/> :iphone: &nbsp; My first stack: Python, Flask & Django;
- <br/> :computer: &nbsp; My second stack: JavaScript;
+ <br/> :computer: &nbsp; My second stack: Flutter;
  <br/> :page_facing_up: &nbsp; Database: MySQL, AlchemySQL.
 
 
