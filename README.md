@@ -25,4 +25,4 @@ On track to be a excelent developer!
 :email: &nbsp; 
 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-RafaelTorraca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-torraca/)](https://www.linkedin.com/in/rafael-torraca/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.torraca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.torraca@gmail.com)](mailto:rafael.torraca@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafael.torraca@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.torraca@icloud.com)](mailto:rafael.torraca@icloud.com)
