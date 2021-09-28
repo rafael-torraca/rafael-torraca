@@ -6,7 +6,8 @@ I am passionate about the world of programming, I am studying Analysis and Syste
 
 I am currently focusing on the following technologies:
 
-💻 Learning in Frontend: Javascript, Typescript, ReactJS and NextJS;<br>
+🛠 Favorite technologies: Javascript and Typescript;<br>
+💻 Learning in Frontend: ReactJS and NextJS;<br>
 💻 Learning in Backend: NodeJS;<br>
 📄 Database: MySQL, Sequelize ORM.
 
