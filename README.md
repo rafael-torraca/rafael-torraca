@@ -4,21 +4,17 @@
 
 I am passionate about the world of programming, I am studying Analysis and Systems Development at FATEC in Americana - SP and every day looking to learn more and more.
 
-I am currently focusing on the following technologies:  
+I am currently focusing on the following technologies:
 
-
- :rocket:  &nbsp; Looking for an urgent internship! ***Please HIRE ME***!!! 😁😁😁
- <br/> 💻 &nbsp; Learning: Javascript, NextJS;
- <br/> :page_facing_up: &nbsp; Database: MySQL, sqLite, Sequelize ORM.
-
+💻 Learning in Frontend: Javascript, Typescript, ReactJS and NextJS;<br>
+💻 Learning in Backend: NodeJS;<br>
+📄 Database: MySQL, Sequelize ORM.
 
 GitHub -> https://github.com/rafael-torraca
 
-
 On track to be a excelent developer!
 
-
- 💬  &nbsp; About me: Tech, games Age of Empires 2, FIFA and series on Netflix
+💬 About me: Tech, games Age of Empires 2, FIFA and series on Netflix.
 
 :email: &nbsp; 
 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-RafaelTorraca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-torraca/)](https://www.linkedin.com/in/rafael-torraca/) 
