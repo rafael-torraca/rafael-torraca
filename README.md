@@ -6,10 +6,10 @@ I am passionate about the world of programming, I am studying Analysis and Syste
 
 I am currently focusing on the following technologies:
 
-🛠 Favorite technologies: Javascript and Typescript;<br>
+🛠 Favorite technologies: Python and Javascript;<br>
 💻 Learning in Frontend: ReactJS and NextJS;<br>
-💻 Learning in Backend: NodeJS;<br>
-📄 Database: MySQL, Sequelize ORM.
+💻 Learning in Backend: Python;<br>
+📄 Database: MySQL, SQLAlchemy.
 
 GitHub -> https://github.com/rafael-torraca
 
