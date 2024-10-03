@@ -6,10 +6,10 @@ I am passionate about the world of programming, I am studying Analysis and Syste
 
 I am currently focusing on the following technologies:
 
-🛠 Favorite technologies: Python and Javascript;<br>
+🛠 Favorite technologies: Javascript and Python;<br>
 💻 Learning in Frontend: ReactJS and NextJS;<br>
-💻 Learning in Backend: Python;<br>
-📄 Database: MySQL, SQLAlchemy.
+💻 Learning in Backend: NodeJS (ExpressJS) and Python (Flask);<br>
+📄 Database: MySQL and PostgreSQL.
 
 GitHub -> https://github.com/rafael-torraca
 
@@ -20,4 +20,4 @@ On track to be a excelent developer!
 :email: &nbsp; 
 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-RafaelTorraca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-torraca/)](https://www.linkedin.com/in/rafael-torraca/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.torraca@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.torraca@icloud.com)](mailto:rafael.torraca@icloud.com)
+[![Gmail Badge](https://img.shields.io/badge/-rafael.torraca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:51961870+rafael-torraca@users.noreply.github.com)](mailto:51961870+rafael-torraca@users.noreply.github.com)
